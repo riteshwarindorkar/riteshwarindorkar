@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Riteshwar indorekar and I'm a Software devloper, from India</p>
+<p align="left">My name is Riteshwar indorkar and I'm a Software devloper, from India</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I was born<br>📚 Currently pursuing MTech from SIRT Bhopal<br>🎯 Goals: Yet to be decided, but aiming high!</p>
+<p align="left">Post-graduate student in Computer Science  
+Learning programming, problem solving, and software fundamentals  
+Exploring projects and improving coding skills step by step  
+Believer in consistency over shortcuts
+</p>
 
 ###
 
